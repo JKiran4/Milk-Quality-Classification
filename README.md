@@ -1,4 +1,4 @@
-# DATA572 Project - Milk Classification
+# Milk Classification
 
 The introduction of machine learning models has reshaped the landscape of many industries, assisting in tasks such as process optimization, predictions, and classification. In recent years, milk producers have taken an interest in how they can effectively leverage classification-based models to determine the quality of their milk. In this project, we explore the use of several machine learning methods to classify milk into three grades: low (bad), medium (moderate), or high (good). 
 
